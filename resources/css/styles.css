@@ -1,5 +1,5 @@
 body{
-    font-family: Helvetica;
+    font-family: Arial;
     font-size: 16px;
     line-height: 1.5;
     margin: 0;
@@ -9,7 +9,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: bisque;
+    background-color: #F7E8FF;
 }
 
 .page-header ul {
